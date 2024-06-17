@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
-name = "shlomo-test"
-client_id = "0eef2adc4e9a8f12d40ed94a58d9f491"
+name = "boa-home-task-SSBA"
+client_id = "67c4e1e1070150fc2dfaa65f3c59c231"
 application_url = "https://example.com"
 embedded = true
 

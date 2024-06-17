@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
-name = "shlomo-test"
-client_id = "0eef2adc4e9a8f12d40ed94a58d9f491"
+name = "home assignment 69"
+client_id = "246a2dffad379506d6b7ef997938bbce"
 application_url = "https://example.com"
 embedded = true
 
